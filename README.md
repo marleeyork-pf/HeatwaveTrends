@@ -5,7 +5,7 @@
 
 <hr>
 
-<h2>🧱🛠️ Under Construction 🛠️🧱</h2>
+<h2>🚧🛠️ Under Construction 🛠️🚧</h2>
 <p>This project is a work-in-progress! Part 1 (heatwave definition and analysis) is completed, and I am currently working on Part 2: applying an LSTM
   and explainable AI to understand how heatwaves effect ecosystem health long after they are over. Stay tuned!
 </p>
