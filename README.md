@@ -27,8 +27,8 @@ on ecosystem health.
   <img src="figures/moisture_IGBP.png" width="400" alt="Random Forest Variable Importances and Interactions">
   <img src="figures/centered_swc.png" width="400" alt="Temperature Patterns from Cool to Warm Ecosystems">
   <img src="figures/heatwave_counts.png" width="400" alt="Precipitation Patterns from Arid to Mesic Ecosystems">
-  <img src="heatwave_trends.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
-  <img src="swc_duration.png" width="400" alt="Map of Sites Included in Study">
+  <img src="figures/heatwave_trends.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
+  <img src="figures/swc_duration.png" width="400" alt="Map of Sites Included in Study">
 </p>
 
 <h2>Skills</h2>
