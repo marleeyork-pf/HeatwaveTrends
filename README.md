@@ -1,4 +1,4 @@
-<!-- 🚧 HeatwaveTrends README 🚧 (HTML) -->
+<!-- <h2> 🚧 HeatwaveTrends README 🚧 (HTML) <h2> -->
 
 <h1>HeatwaveTrends</h1>
 <p></strong>Analyzing trends in novel heatwave definitions and applying recurrent neural network to understand legacy effects</strong></p
