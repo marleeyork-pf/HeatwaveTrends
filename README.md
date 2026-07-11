@@ -30,7 +30,7 @@
   <li><strong>Detailed QA/QC</strong>: adjusted satellite data based on in-situ tower station data</li>
   <li><strong>Satellite Data Bias Adjustment</strong>: adjusted satellite data based on in-situ tower station data</li>
   <li><strong>Heatwave Algorithm</strong>: crafted algorithm to define various types of heatwaves based on historical temperatures</strong></li>
-  <li><strong>Deep Learning</strong>: currently desigining LSTM to understand lasting impacts of heatwaves</li>
+  <li><strong>Analytics</strong>: performed statistical testing and trend analysis to determine heatwave impacts</li>
 </ul>
 
 
