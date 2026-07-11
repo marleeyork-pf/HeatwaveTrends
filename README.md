@@ -11,9 +11,10 @@
 
 <h2>Data Visualization</h2>
 <p>
-  <img src="figures/moisture_distributions.png" width="400" alt="Identification of Extreme Carbon Fluxes">
+  <img src="figures/US-Ton_2012_mean_temperature_heatwave_detection.png" width="400" alt="Identification of Heatwaves">
+  <img src="figures/neeresponseheatmap.png" width="400" alt="NEE Response Heatmap">
+  <img src="figures/hw_seasonality.png" width="400" alt="Seasonal Trends in Heatwave Types">
   <img src="figures/moisture_IGBP.png" width="400" alt="Random Forest Variable Importances and Interactions">
-  <img src="figures/centered_swc.png" width="400" alt="Temperature Patterns from Cool to Warm Ecosystems">
   <img src="figures/heatwave_counts.png" width="400" alt="Precipitation Patterns from Arid to Mesic Ecosystems">
   <img src="figures/heatwave_trends.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
   <img src="figures/swc_duration.png" width="400" alt="Map of Sites Included in Study">
