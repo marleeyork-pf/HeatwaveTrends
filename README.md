@@ -5,26 +5,9 @@
 
 <hr>
 
-<h2>🚧🛠️ Under Construction 🛠️🚧</h2>
-<p>This project is a work-in-progress! Part 1 (heatwave definition and analysis) is completed, and I am currently working on Part 2: applying an LSTM
-  and explainable AI to understand how heatwaves effect ecosystem health long after they are over. Stay tuned!
-</p>
-
 <h2>TLDR</h2>
-<p></strong/>HeatwaveTrends</strong> applies <strong>algorithms</strong> to integrated weather tower station data and 30 years of satellite temperature data 
-in order to identify novel definitions of heatwave types based on daily minimum, maximum, and average temperatures across 130 sites in the United States. 
-Data analysis is performed to understand trends in heatwaves over time and across different ecosystem types. Rigorous data cleaning, preprocessing, QAQC,
-and heatwave definitions have been performed in preparation for application of a recurrent neural network to understand the lasting impacts of a heatwave
-on ecosystem health.
+<p>Existing heatwave definitions often fail to capture the full range of heat stress experienced by ecosystems; therefore, I developed a comprehensive heatwave classification framework and evaluated how different forms of heat stress influence gross primary production (GPP), ecosystem respiration (Reco), and net ecosystem exchange (NEE) across diverse ecosystems in the western United States. We integrated long-term (1994–2024) carbon flux observations from 54 FLUXNET sites with historical climate data to identify distinct heatwave types and quantify ecosystem responses during and following heatwave events.
 </p>
-
-<h2>Highlights</h2>
-<ul>
-  <li><strong>Detailed QA/QC</strong>: adjusted satellite data based on in-situ tower station data</li>
-  <li><strong>Satellite Data Bias Adjustment</strong>: adjusted satellite data based on in-situ tower station data</li>
-  <li><strong>Heatwave Algorithm</strong>: crafted algorithm to define various types of heatwaves based on historical temperatures</strong></li>
-  <li><strong>Deep Learning</strong>: currently desigining LSTM to understand lasting impacts of heatwaves</li>
-</ul>
 
 <h2>Data Visualization</h2>
 <p>
@@ -35,6 +18,15 @@ on ecosystem health.
   <img src="figures/heatwave_trends.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
   <img src="figures/swc_duration.png" width="400" alt="Map of Sites Included in Study">
 </p>
+
+<h2>Highlights</h2>
+<ul>
+  <li><strong>Detailed QA/QC</strong>: adjusted satellite data based on in-situ tower station data</li>
+  <li><strong>Satellite Data Bias Adjustment</strong>: adjusted satellite data based on in-situ tower station data</li>
+  <li><strong>Heatwave Algorithm</strong>: crafted algorithm to define various types of heatwaves based on historical temperatures</strong></li>
+  <li><strong>Deep Learning</strong>: currently desigining LSTM to understand lasting impacts of heatwaves</li>
+</ul>
+
 
 <h2>Skills</h2>
 <ul>
