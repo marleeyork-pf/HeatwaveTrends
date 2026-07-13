@@ -51,12 +51,6 @@ carbonflux/
 └── README.md
 </pre>
 
-<h2>WHAT'S NEXT?</h2>
-<p>These heatwave definitions are now being used in an LSTM to determine how heatwave events leave lasting impacts
-  on ecosystems. Stay tuned to see this happen!
-</p>
-
-
 <h2>Contact</h2>
 
 <p>
